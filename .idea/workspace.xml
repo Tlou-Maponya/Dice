@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d210e8a-b996-435d-b3e9-afa01b56b081" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yr6c6AbOrEBW6fL9TNZz2svzF6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainProgram" />
+      <module name="Dice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d210e8a-b996-435d-b3e9-afa01b56b081" name="Default Changelist" comment="" />
+      <created>1583688441448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583688441448</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="99" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1583688800360">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="832" y="99" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/0.27.1366.708@0.27.1366.708" timestamp="1583688800360" />
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom" timestamp="1583757518366">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="165" key="GridCell.Tab.0.bottom/0.27.1366.708@0.27.1366.708" timestamp="1583757518366" />
+    <state width="1320" height="165" key="GridCell.Tab.0.center" timestamp="1583757518366">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="165" key="GridCell.Tab.0.center/0.27.1366.708@0.27.1366.708" timestamp="1583757518366" />
+    <state width="1320" height="165" key="GridCell.Tab.0.left" timestamp="1583757518366">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="165" key="GridCell.Tab.0.left/0.27.1366.708@0.27.1366.708" timestamp="1583757518366" />
+    <state width="1320" height="165" key="GridCell.Tab.0.right" timestamp="1583757518366">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state width="1320" height="165" key="GridCell.Tab.0.right/0.27.1366.708@0.27.1366.708" timestamp="1583757518366" />
+    <state x="688" y="167" key="run.anything.popup" timestamp="1583689119701">
+      <screen x="0" y="27" width="1366" height="708" />
+    </state>
+    <state x="688" y="167" key="run.anything.popup/0.27.1366.708@0.27.1366.708" timestamp="1583689119701" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/MainProgram.java</url>
+          <line>1</line>
+          <properties class="MainProgram" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
